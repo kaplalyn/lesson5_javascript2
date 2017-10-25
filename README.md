@@ -13,7 +13,7 @@ Web Application Development
 (In this assignment I learned how to hypothetically calculate my taxes and learned how to do it with all different types of filing such as single, married jointly, married separately, and head of household.)
 
 ### View Project:
-(https://github.com/kaplalyn/lesson5_javascript2.git.)
+(https://kaplalyn.github.io/lesson5_javascript2/)
 
 ### Lessons Learned in the Assignment:
 1. I learned that JavaScript has six different types of values. These are numbers, strings, Booleans, objects, functions, and undefined values. My favorite type of value I learned about was Boolean Operators. 
